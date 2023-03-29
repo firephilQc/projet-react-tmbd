@@ -1,4 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+@font-face {
+    font-family: 'sf_slapstick_comicBdOb';
+    src: url('../Fonts/sf_slapstick_comic-webfont.woff2') format('woff2'),
+        url('../Fonts/sf_slapstick_comic_bold-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 $font-1: "Poppins", sans-serif;
 $color-1: #e57519;
