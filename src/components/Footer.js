@@ -6,8 +6,7 @@ const Footer = () => {
             <img src="../images/LOGOPHIL2.svg" alt="" />
             <img className="logo-entreprise" src="../images/logodbwb.png" alt="" />
             <p>©2023 dbwb - Tous droits réservés</p>
-            <img className="logo-fb" src="../images/logo-fb.png" alt="" />
-            <img className="logo-fb" src="../images/logo-fb.png" alt="" />
+            <a href="https://www.themoviedb.org/"><img className="logo-fb" src="../images/logo-fb.png" alt="" /></a>
         </div>
     )
 }
